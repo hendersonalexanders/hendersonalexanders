@@ -34,7 +34,7 @@ and the unglamorous infrastructure work that makes other engineers faster.
 
 
 
-\### A note on this profile
+\### A note for any readers
 
 
 
